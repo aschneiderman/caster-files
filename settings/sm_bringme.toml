@@ -1,0 +1,37 @@
+[file]
+"caster alias file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_aliases.toml"
+"caster bring me file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\sm_bringme.toml"
+"caster chain aliases file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_chain_aliases.toml"
+"caster clipboard file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\clipboard.json"
+"caster companion file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\companion_config.toml"
+"caster hooks file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\hooks.toml"
+"caster log file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\log.txt"
+"caster record from history file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_history.toml"
+"caster rules file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\rules.toml"
+"caster settings file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\settings.toml"
+"caster transformer file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\transformers\\words.txt"
+"caster transformers file" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\transformers.toml"
+
+[folder]
+"caster data" = "C:\\Users\\aschn\\AppData\\Local\\caster\\data"
+"caster hooks" = "C:\\Users\\aschn\\AppData\\Local\\caster\\hooks"
+"caster rules" = "C:\\Users\\aschn\\AppData\\Local\\caster\\rules"
+"caster settings" = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings"
+"caster source" = "C:\\Users\\aschn\\Documents\\Caster"
+"caster transformers" = "C:\\Users\\aschn\\AppData\\Local\\caster\\transformers"
+"caster user" = "C:\\Users\\aschn\\AppData\\Local\\caster"
+"libraries | home" = "C:\\Users\\aschn"
+"my documents" = "C:\\Users\\aschn\\Documents"
+"my pictures" = "C:\\Users\\aschn\\Pictures"
+"sick you lee" = "C:\\Users\\aschn\\AppData\\Local\\caster\\sikuli"
+
+[program]
+notepad = "C:\\Windows\\notepad.exe"
+
+[website]
+"caster discord" = "https://discord.gg/9eAAsCJ"
+"caster documentation" = "https://caster.readthedocs.io/en/latest/"
+"caster gitter" = "https://gitter.im/dictation-toolbox/Caster"
+"dragonfly documentation" = "https://dragonfly2.readthedocs.io/en/latest/"
+"dragonfly gitter" = "https://gitter.im/dictation-toolbox/dragonfly"
+google = "https://www.google.com"
