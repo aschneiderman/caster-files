@@ -1,5 +1,5 @@
 [Tree_Node_Path]
-SM_CSS_TREE_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_css_tree.toml"
+SM_CSS_TREE_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\sm_css_tree.toml"
 
 [engine]
 default_engine_mode = false
@@ -82,46 +82,46 @@ short_integer_opt_out = false
 use_aenea = false
 
 [online]
-last_update_date = "2020-11-24"
+last_update_date = "2020-12-21"
 online_mode = true
 update_interval = 7
 
 [paths]
 AHK_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice"
 BASE_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice"
-COMPANION_CONFIG_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\companion_config.toml"
-CONFIGDEBUGTXT_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\configdebug.txt"
+COMPANION_CONFIG_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\companion_config.toml"
+CONFIGDEBUGTXT_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\configdebug.txt"
 DLL_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\lib\\dll"
 DOUGLAS_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\mouse\\grids.py"
 ENGINE_PATH = "C:\\Program Files (x86)\\Nuance\\NaturallySpeaking15\\Program\\natspeak.exe"
-GDEF_FILE = "C:\\Users\\aschn\\AppData\\Local\\caster\\transformers\\words.txt"
+GDEF_FILE = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\transformers\\words.txt"
 GIT_REPO_LOCAL_REMOTE_DEFAULT_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\bin\\share\\git_repo_local_to_remote_match.toml.defaults"
-GIT_REPO_LOCAL_REMOTE_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\git_repo_local_to_remote_match.toml"
+GIT_REPO_LOCAL_REMOTE_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\git_repo_local_to_remote_match.toml"
 HOMUNCULUS_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\hmc\\h_launch.py"
-HOOKS_CONFIG_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\hooks.toml"
+HOOKS_CONFIG_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\hooks.toml"
 LEGION_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\mouse\\legion.py"
-LOG_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\log.txt"
+LOG_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\log.txt"
 MEDIA_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\bin\\media"
 PYTHONW = "C:\\Python27\\pythonw.exe"
 RAINBOW_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\mouse\\grids.py"
 REBOOT_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\bin\\reboot.bat"
 REBOOT_PATH_WSR = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\bin\\reboot_wsr.bat"
 REMOTE_DEBUGGER_PATH = "."
-RULES_CONFIG_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\rules.toml"
-SAVED_CLIPBOARD_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\clipboard.json"
+RULES_CONFIG_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\rules.toml"
+SAVED_CLIPBOARD_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\clipboard.json"
 SETTINGS_WINDOW_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\settingswindow.py"
 SIKULI_IDE = "."
 SIKULI_RUNNER = "."
-SIKULI_SCRIPTS_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\sikuli"
+SIKULI_SCRIPTS_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\sikuli"
 SIKULI_SERVER_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\sikuli\\server\\xmlrpc_server.sikuli"
-SM_ALIAS_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_aliases.toml"
-SM_BRINGME_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\sm_bringme.toml"
-SM_CHAIN_ALIAS_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_chain_aliases.toml"
-SM_HISTORY_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\data\\sm_history.toml"
+SM_ALIAS_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\sm_aliases.toml"
+SM_BRINGME_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\sm_bringme.toml"
+SM_CHAIN_ALIAS_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\sm_chain_aliases.toml"
+SM_HISTORY_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\data\\sm_history.toml"
 SUDOKU_PATH = "C:\\Users\\aschn\\Documents\\Caster\\castervoice\\asynch\\mouse\\grids.py"
 TERMINAL_PATH = "."
-TRANSFORMERS_CONFIG_PATH = "C:\\Users\\aschn\\AppData\\Local\\caster\\settings\\transformers.toml"
-USER_DIR = "C:\\Users\\aschn\\AppData\\Local\\caster"
+TRANSFORMERS_CONFIG_PATH = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files\\settings\\transformers.toml"
+USER_DIR = "C:\\Users\\aschn\\Documents\\GitHub\\caster-files"
 WSR_PATH = "C:\\Windows\\Speech\\Common\\sapisvr.exe"
 
 [python]
